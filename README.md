@@ -3,4 +3,4 @@ Codes of '3D Model-free Visual Localization System from Essential Matrix under l
 
 ![Pipeline](./img/pipeline.png "The pipeline of the proposed 3D model-free visual localization system.")
 
-![Solution illustration](./img/solution.png "Illustration of proposed 2p1p minimal solution.")
+![Solution illustration](./img/solutions.png "Illustration of proposed 2p1p minimal solution.")
